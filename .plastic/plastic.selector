@@ -1,0 +1,4 @@
+repository "QiuBiJiGameJam@wechat_os_qy0_nfb0eauedc62ajka02uie@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
